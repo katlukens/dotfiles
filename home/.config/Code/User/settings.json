@@ -41,6 +41,6 @@
     "github.copilot.nextEditSuggestions.fixes": false,
     "github.copilot.renameSuggestions.triggerAutomatically": false,
     "github.copilot.chat.newWorkspaceCreation.enabled": false,
-    "editor.fontFamily": "'RobotoMono Nerd Font Mono,RobotoMono Nerd Font Mono Lt, 'monospace', monospace",
+    "editor.fontFamily": "'RobotoMono Nerd Font Mono, 'monospace', monospace",
     "editor.fontLigatures": false
 }
