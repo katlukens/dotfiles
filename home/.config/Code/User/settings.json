@@ -1,0 +1,46 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "firefox",
+    "cSpell.userWords": [
+      "Comeau",
+      "htmx",
+      "Stylesheet"
+    ],
+    "editor.tabSize": 2,
+    "editor.stickyTabStops": true,
+    "go.toolsManagement.autoUpdate": true,
+    "editor.detectIndentation": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "[dart]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.rulers": [
+        80
+      ],
+      "editor.selectionHighlight": false,
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": "off"
+    },
+    "dart.flutterHotReloadOnSave": "allIfDirty",
+    "workbench.settings.applyToAllProfiles": [
+      "dart.flutterHotReloadOnSave"
+    ],
+    "dart.hotReloadOnSave": "all",
+    "prettier.documentSelectors": [
+      "*.html.tmpl"
+    ],
+    "github.copilot.enable": {
+      "*": false
+    },
+    "github.copilot.advanced": {
+
+    },
+    "github.copilot.chat.agent.runTasks": false,
+    "github.copilot.nextEditSuggestions.fixes": false,
+    "github.copilot.renameSuggestions.triggerAutomatically": false,
+    "github.copilot.chat.newWorkspaceCreation.enabled": false,
+    "editor.fontFamily": "'RobotoMono Nerd Font Mono,RobotoMono Nerd Font Mono Lt, 'monospace', monospace",
+    "editor.fontLigatures": false
+}
