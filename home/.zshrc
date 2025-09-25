@@ -102,6 +102,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias got="git"
 
 export PATH=$PATH:/home/kat/dotfiles/home/bin
 # Flutter and Dart

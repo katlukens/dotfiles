@@ -1,3 +1,7 @@
 #! /usr/bin/env bash
 
-echo hi
+# link -sym -force <source> <target>
+ln -sf ~/dotfiles/home/.config/Code/User/settings.json ~/.config/Code/User/settings.json 
+ln -sf ~/dotfiles/home/.zshrc ~/.zshrc
+ln -sf ~/dotfiles/home/bin/dotsync ~/bin/dotsync
+ln -sf ~/dotfiles/home/bin/fonts ~/bin/fonts
