@@ -104,7 +104,10 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias got="git"
 
+
 export PATH=$PATH:/home/kat/dotfiles/home/bin
+# Go
+export PATH=$PATH:/usr/local/go/bin
 # Flutter and Dart
 export PATH=$PATH:/home/kat/flutter/bin
 # Pulumi
