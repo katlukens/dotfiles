@@ -115,4 +115,5 @@ export PATH=$PATH:/home/kat/.pulumi/bin
 # java
 export PATH=$PATH:/usr/lib/jvm/java-11-openjdk-amd64/bin
 
+export EDITOR=vim
 
