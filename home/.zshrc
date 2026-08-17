@@ -105,15 +105,17 @@ source $ZSH/oh-my-zsh.sh
 alias got="git"
 
 
-export PATH=$PATH:/home/kat/dotfiles/home/bin
+export PATH=$PATH:$HOME/dotfiles/home/bin
 # Go
 export PATH=$PATH:/usr/local/go/bin
 # Flutter and Dart
-export PATH=$PATH:/home/kat/flutter/bin
+export PATH=$PATH:$HOME/flutter/bin
 # Pulumi
-export PATH=$PATH:/home/kat/.pulumi/bin
+export PATH=$PATH:$HOME/.pulumi/bin
 # java
 export PATH=$PATH:/usr/lib/jvm/java-11-openjdk-amd64/bin
+
+export PATH=$PATH:$HOME/.local/bin
 
 export EDITOR=vim
 

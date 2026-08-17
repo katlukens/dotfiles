@@ -43,5 +43,7 @@
     "github.copilot.chat.newWorkspaceCreation.enabled": false,
     "editor.fontFamily": "'RobotoMono Nerd Font', 'monospace', monospace",
     "editor.fontLigatures": false,
-    "dart.previewHotReloadOnSaveWatcher": true
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "chat.viewSessions.orientation": "stacked",
+    "diffEditor.renderSideBySide": false
 }
