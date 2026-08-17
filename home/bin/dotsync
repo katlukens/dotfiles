@@ -1,6 +1,9 @@
-#! /usr/bin/env bash
+#!/usr/bin/env bash
+
+set -euo pipefail
 
 # link -sym -force <source> <target>
+ln -sf ~/dotfiles/home/.tmux.conf ~/.tmux.conf
 ln -sf ~/dotfiles/home/.config/Code/User/settings.json ~/.config/Code/User/settings.json 
 ln -sf ~/dotfiles/home/.zshrc ~/.zshrc
 ln -sf ~/dotfiles/home/bin/dotsync ~/bin/dotsync
